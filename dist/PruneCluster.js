@@ -502,7 +502,7 @@ var PruneClusterForLeaflet = (L.Layer ? L.Layer : L.Class).extend({
             iconSize = 44;
         }
         return new L.DivIcon({
-            html: "<div><span>" + cluster.population + "</span></div>",
+            html: "<div><strong></strong><span>" + cluster.population + "</span></div>",
             className: c,
             iconSize: L.point(iconSize, iconSize)
         });

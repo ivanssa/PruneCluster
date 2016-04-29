@@ -59,8 +59,8 @@ font-family: 'museo_sans300';
 }
 
 .prunecluster-medium div {
-	width: 32px;
-	height: 32px;
+	width: 34px;
+	height: 34px;
 	background-color:#ff9800;
 	background-color: rgba(255,152,0, 1);
 }
@@ -79,8 +79,8 @@ font-family: 'museo_sans300';
 }
 
 .prunecluster-large div {
-	width: 32px;
-	height: 32px;
+  width: 34px;
+	height: 34px;
 	background-color:#D55548;
 	background-color: rgba(213, 85, 72, 1);
 }

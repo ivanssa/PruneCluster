@@ -80,9 +80,9 @@ font-family: 'museo_sans300';
 
 .prunecluster-large div {
   width: 34px;
-	height: 34px;
-	background-color:#D55548;
-	background-color: rgba(213, 85, 72, 1);
+  height: 34px;
+  background-color:#D55548;
+  background-color: rgba(213, 85, 72, 1);
 }
 
 
@@ -92,15 +92,14 @@ font-family: 'museo_sans300';
 .prunecluster strong{
     position:absolute;
     border: 4px solid #FFF;    
-	-moz-animation: pulsate 1.5s ease-in-out infinite;
-	-webkit-animation: pulsate 1.5s ease-in-out infinite;	
-	/* make a circle */
-	border-radius:51px;	
-	width:51px;	
-	height:51px;
-	top:-10px;
-	left:-10px;
-		
+    -moz-animation: pulsate 1.5s ease-in-out infinite;
+    -webkit-animation: pulsate 1.5s ease-in-out infinite;	
+    /* make a circle */
+    border-radius:51px;	
+    width:51px;	
+    height:51px;
+    top:-10px;
+    left:-10px;
 }
 
 @-moz-keyframes pulsate {
